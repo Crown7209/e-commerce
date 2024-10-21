@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1729475907798",
+    "name": "Product-1",
+    "description": "Description-1",
+    "price": "1000",
+    "image_url": "https://images.philips.com/is/image/philipsconsumer/3b0fe009e2ce4883b552b0220060489c?wid=700&hei=700&$pnglarge$"
+  },
+  {
+    "id": "1729478573443",
+    "name": "Product-5",
+    "description": "Description-5",
+    "price": "500",
+    "image_url": "https://images.philips.com/is/image/philipsconsumer/3b0fe009e2ce4883b552b0220060489c?wid=700&hei=700&$pnglarge$"
+  }
+]
